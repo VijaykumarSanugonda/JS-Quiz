@@ -1,0 +1,21 @@
+body {
+    background-color: lightgreen !important;
+}
+
+.col-md-7 {
+    margin-top: 100px !important;
+    background-color: white;
+    padding: 20px;
+}
+
+h1 {
+    background-color: blue;
+    color: white !important;
+}
+
+input,
+label {
+    margin: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
